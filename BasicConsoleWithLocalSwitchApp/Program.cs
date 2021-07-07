@@ -18,6 +18,8 @@ static string GetValue(int value)
         _ => "NaN"
     };
 
+#region Helper classes
+
 /// <summary>
 /// This class could also be in a separate class file
 /// </summary>
@@ -31,3 +33,5 @@ internal static class Operations
             _ => "NaN"
         };
 }
+
+#endregion
