@@ -9,8 +9,8 @@ See Microsoft docs: [Top-level statements](https://docs.microsoft.com/en-us/dotn
 - `BasicConsoleApp` demonstrates a basic top-level console project
 - `BasicUsingInternalClassesApp` demonstrates accessing functionality with classes in the same project.
 - WorkingWithDataConsoleApp shows working with
-  - A class project `DataLibrary` to read json data
-  - A class project `ContainerLibrary` with concrete classes used in `DataLibrary`
+  - Class project `DataLibrary` to read json data
+  - Class project `ContainerLibrary` with concrete classes used in `DataLibrary`
 
 More code samples to be added shortly. 
 
