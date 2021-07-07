@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		readme.md = readme.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicConsoleWithLocalSwitchApp", "BasicConsoleWithLocalSwitchApp\BasicConsoleWithLocalSwitchApp.csproj", "{1C115831-5053-438A-B9A4-B9D28412A924}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{92B50DA6-726F-4DAF-B0B8-C5053D049A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92B50DA6-726F-4DAF-B0B8-C5053D049A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92B50DA6-726F-4DAF-B0B8-C5053D049A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C115831-5053-438A-B9A4-B9D28412A924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C115831-5053-438A-B9A4-B9D28412A924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C115831-5053-438A-B9A4-B9D28412A924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C115831-5053-438A-B9A4-B9D28412A924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{EA45E378-4466-44CA-8593-CF2029B51F48} = {E9339082-84F9-41DF-A874-D83C5B2D50C2}
 		{6A4815B9-844B-4B9C-B61E-C552084FD93C} = {E9339082-84F9-41DF-A874-D83C5B2D50C2}
 		{92B50DA6-726F-4DAF-B0B8-C5053D049A8B} = {E9339082-84F9-41DF-A874-D83C5B2D50C2}
+		{1C115831-5053-438A-B9A4-B9D28412A924} = {E9339082-84F9-41DF-A874-D83C5B2D50C2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5BE8AFB1-750A-4012-922A-557635904581}
