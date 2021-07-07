@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicUsingInternalClassesAp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF50F043-05F2-49BE-BDAD-8133399C8486}"
 	ProjectSection(SolutionItems) = preProject
-		about.md = about.md
+		readme.md = readme.md
 	EndProjectSection
 EndProject
 Global
