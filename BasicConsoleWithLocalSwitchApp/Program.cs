@@ -17,3 +17,17 @@ static string GetValue(int value)
         _ when value == 2 => "World",
         _ => "NaN"
     };
+
+/// <summary>
+/// This class could also be in a separate class file
+/// </summary>
+internal static class Operations
+{
+    public static string GetValue(int value)
+        => 0 switch
+        {
+            _ when value == 1 => "Hello",
+            _ when value == 2 => "World",
+            _ => "NaN"
+        };
+}
